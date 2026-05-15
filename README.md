@@ -1,4 +1,4 @@
-# Devops_Final_Project
+# devops_final_project
 
 A clear and concise description of your project.  
 Example: "This repository contains Terraform configurations for deploying cloud infrastructure in a reproducible and modular way."
